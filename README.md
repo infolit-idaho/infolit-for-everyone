@@ -1,27 +1,17 @@
-# Minimal Mistakes remote theme starter
+# Information Literacy for Everyone  
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+"Information overload." "Fake news." The wild, wild west that is the Internet. Now more than ever, information literacy in the 21st century is a crucial life skill.  
 
-Contains basic configuration to get you a site with:
+Library workers are uniquely positioned to instill and foster the information literacy skill set. But we must first cultivate it ourselves. To this end, we, members of the Idaho library and education communities with backgrounds in public, academic, and special libraries, have embarked on this project to make understanding and teaching information literacy an accessible undertaking for library workers and patrons of varying backgrounds and specializations.  
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+We hope you will undertake this journey with us, and have fun doing it!  
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## Project Team  
 
----
+We're a group of Idaho library workers intent on making information literacy accessible through OERs (open educational resources). You can follow along with—or even contribute to—the development of this project on [our team page at the Rebus Community Open Textbook Directory](https://www1.rebus.community/#/project/379f6355-8f50-4b7f-9408-ab88cb3eafd5).   
 
-## Troubleshooting
+## Technical Information  
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+This website uses the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes) for GitHub Pages.  
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+Our "Infolit Idaho" team profile icon is ["Statistics" by faisalovers from the Noun Project](https://thenounproject.com/term/statistics/1238357/).
