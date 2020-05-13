@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: true
 ---
 
 "Information overload." "Fake news." The wild, wild west that is the Internet. Now more than ever, information literacy in the 21st century is a crucial life skill.  
