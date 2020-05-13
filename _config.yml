@@ -13,25 +13,39 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: InfoLit for Everyone
+title_separator: "|"
+# email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  An OER (open educational resource) guide to information literacy (infolit) made by library workers in public libraries, academic libraries, and special libraries in the Idaho library and education communities.
+# twitter_username: username
+github_username: infolit-idaho
 minimal_mistakes_skin: default
 search: true
+search_full_content: true # false (set this to false if site starts to load slowly… the trade-off is that if this is set to false, only the first 50 words of a page or post's body content will be added to the search index)
+locale: "en-US"
+url: "https://infolit-idaho.github.io"
+baseurl: "/infolit-for-everyone"
+repository: "infolit-idaho/infolit-for-everyone"
+lifespan: "2020"
+breadcrumbs: true
+words_per_minute: 200
+
+comments:  
+  provider: false # "utterances"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -58,34 +72,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "InfoLit Idaho"
+  avatar : "/assets/images/infolit-idaho.png"
+  bio    : "Idaho library workers in public, academic, and special libraries promoting information literacy through Open Education Resources."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
+      # url: "https://"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/infolit-idaho"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+      # icon: "fab fa-fw fa-twitter-square"
+      #url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/infolit-idaho"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -95,8 +109,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
+      read_time: false # true
+      comments: false # true
       share: true
       related: true
   # _pages
@@ -113,3 +127,32 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# collections
+collections: 
+  privacy:
+    output: false
+    permalink: /:collection/:path/
+  sift-moves:
+    output: false
+    permalink: /:collection/:path/
+
+# collection defaults
+defaults:
+  # _privacy
+  - scope:
+      path: ""
+      type: privacy
+    values:
+      layout: single
+      author_profile: false # true (will we want author profiles on these?)
+      share: true
+  # _sift-moves
+  - scope:
+      path: ""
+      type: privacy
+    values:
+      layout: single
+      author_profile: false # true (will we want author profiles on these?)
+      share: true
+
