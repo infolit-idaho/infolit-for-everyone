@@ -1,9 +1,23 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
-    url: /about/
+    url: /about
+  - title: "SIFT Moves"
+    url: /sift
+
+sift:
+  - title: SIFT Moves
+    children:
+      - title: "SIFT Moves (As Single Page)"
+        url: /sift/
+      - title: "S: Stop"
+        url: /sift-stop/
+      - title: "I: Investigate the Source"
+        url: /sift-investigate-the-source/
+      - title: "F: Find Better Coverage"
+        url: /sift-find-better-coverage/
+      - title: "T: Trace to Original Context"
+        url: /sift-trace-to-original-context/
+      - title: "Additional Useful Approaches"
+        url: /sift-additional-approaches/
+      - title: "SIFT Section Attribution"
+        url: /sift-attribution/  

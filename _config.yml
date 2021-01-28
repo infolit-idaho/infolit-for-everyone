@@ -49,6 +49,8 @@ timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time
 
 include:
   - _pages
+  - _posts
+  - _sift-moves
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -102,7 +104,7 @@ footer:
       # url: "https://instagram.com/"
 
 defaults:
-  # _posts
+  # _posts <!-- currently unused, but left here in case it's useful to add in the future or when this is forked. when used, it might make more sense to rename this `project news` or something that will distinguish it from information literacy about news and news sources -->
   - scope:
       path: ""
       type: posts
@@ -130,29 +132,31 @@ tag_archive:
 
 # collections
 collections: 
-  privacy:
-    output: false
-    permalink: /:collection/:path/
+#  privacy:
+#    output: false
+#    permalink: /:collection/:path/
   sift-moves:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 # collection defaults
 defaults:
-  # _privacy
+# _privacy
+#- scope:
+#    path: ""
+#    type: privacy
+#  values:
+#    layout: single
+#    author_profile: false # true (will we want author profiles on these?)
+#    share: false
+# _sift-moves
   - scope:
       path: ""
-      type: privacy
+      type: sift-moves
     values:
       layout: single
+      sidebar:
+        nav: "sift"
       author_profile: false # true (will we want author profiles on these?)
-      share: true
-  # _sift-moves
-  - scope:
-      path: ""
-      type: privacy
-    values:
-      layout: single
-      author_profile: false # true (will we want author profiles on these?)
-      share: true
+      share: false
 
