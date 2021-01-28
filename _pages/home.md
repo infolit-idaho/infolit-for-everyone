@@ -24,7 +24,7 @@ You are also free to adapt this to your needs. If you're familiar with GitHub Pa
 
 Whatever you do with this, we'd appreciate you letting us know that you are using it in some way!  
 
-:construction:
+:construction:  
 Add language & links for which CC license this uses, both here & in the footer.  
-:construction:
+:construction:  
 {: .notice}  
