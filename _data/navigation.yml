@@ -3,6 +3,8 @@ main:
     url: /about
   - title: "SIFT Moves"
     url: /sift
+  - title: "Zines"
+    url: /zines
 
 sift:
   - title: SIFT Moves
