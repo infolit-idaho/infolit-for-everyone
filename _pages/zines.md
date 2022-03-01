@@ -83,9 +83,8 @@ This work is free of known copyright restrictions.
 </p>
 
 ## How to Make a Tiny Zine 
-
-[!tiny zine cover]({{ site.url }} {{ site.baseurl }}/assets/images/tiny zine cover.png){: .h400 .align-center}]({{ site.url }}{{ site.baseurl }}/assets/images/tiny zine cover.png)  
-[!tiny zine pages]({{ site.url }} {{ site.baseurl }}/assets/images/tiny zine pages.png){: .h400 .align-center}]({{ site.url }}{{ site.baseurl }}/assets/images/tiny zine pages.png) 
+![tiny zine cover](https://user-images.githubusercontent.com/65257138/156218878-fce68568-34d3-40dd-a0a3-e623525562ee.png)
+![tiny zine pages](https://user-images.githubusercontent.com/65257138/156218881-180b5d41-9b81-4ea9-88b7-71daa96706a1.png)
 
 instructions on [how to make a tiny zine]({{ site.url }}{{ site.baseurl }}/assets/images/mini zine template 16-page how to make a mini zine.pdf)  
 {: .text-center}  
