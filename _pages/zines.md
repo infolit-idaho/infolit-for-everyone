@@ -64,7 +64,7 @@ instructions on [how to make a zine]({{ site.url }}{{ site.baseurl }}/assets/ima
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 </p>
 
-## Mini Zine Template  
+## 8-Page Zine Template  
 
 Want to make a similar zine entirely with your own content? Here's a template you can use!  
 
@@ -72,6 +72,33 @@ Want to make a similar zine entirely with your own content? Here's a template yo
 
 [mini zine template to print, cut, and fold]({{ site.url }}{{ site.baseurl }}/assets/images/mini-zine-template.pdf)  
 {: .text-center}  
+
+<p style="text-align:center;">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work is free of known copyright restrictions.
+</p>
+
+## How to Make a Tiny Zine 
+
+[!tiny zine cover]({{ site.url }} {{ site.baseurl }}/assets/images/tiny zine cover.png){: .h400 .align-center}]({{ site.url }}{{ site.baseurl }}/assets/images/tiny zine cover.png)  
+[!tiny zine pages]({{ site.url }} {{ site.baseurl }}/assets/images/tiny zine pages.png){: .h400 .align-center}]({{ site.url }}{{ site.baseurl }}/assets/images/tiny zine pages.png) 
+
+instructions on [how to make a tiny zine]({{ site.url }}{{ site.baseurl }}/assets/images/mini zine template 16-page how to make a mini zine.pdf)  
+{: .text-center}  
+
+<p style="text-align:center;">
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+</p>
+
+## 16-Page Zine Template
+
+Want to make a similar zine entirely with your own content? Here's a template you can use!  
+
+[![mini zine template 16-page]({{ site.url }}{{ site.baseurl }}/assets/images/mini zine template 16-page.png){: .h400 .align-center}]({{ site.url }}{{ site.baseurl }}/assets/images/mini zine template 16-page.pdf)
 
 <p style="text-align:center;">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
