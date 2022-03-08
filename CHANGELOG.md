@@ -24,6 +24,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Commented out unused lines in `navigation.yml`  
 - Updated copyright span of years, aka `lifespan` in `_config.yml`  
 - Updated contributions on `10-about.md`  
+- Renamed `master` branch to `main`  
 
 ## [0.9.0] - 2021-03-04  
 ### Added  
