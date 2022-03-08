@@ -7,5 +7,20 @@
 .h200 { height: 200px;}
 .h400 { height: 400px;}
 
+$info-color: #3b9cba !default;
+$link-color: mix(#000, $info-color, 35%) !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color-visited: mix(#000, $link-color, 15%) !default;
+
+details summary {
+    text-decoration: underline $link-color 2px;
+    display: list-item;
+}
+
+.details-wrapper {
+    border: 2px solid $link-color; 
+    padding: 1rem;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

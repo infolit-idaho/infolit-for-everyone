@@ -2,6 +2,7 @@
 title: "Welcome"
 layout: splash
 permalink: /splash-page/
+author_profile: true
 ---
 
 ## Information Literacy **is** for Everyone  

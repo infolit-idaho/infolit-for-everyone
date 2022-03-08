@@ -21,9 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # twitter_username: username
 github_username: infolit-idaho
 minimal_mistakes_skin: default
-search: true
+search: true # false
 search_full_content: true # false (set this to false if site starts to load slowly… the trade-off is that if this is set to false, only the first 50 words of a page or post's body content will be added to the search index)
-search_provider: lunr # (lunr is the default), algolia, google
+search_provider: # lunr # (lunr is the default), algolia, google
 locale: "en-US"
 
 url: "https://infolit-idaho.github.io"
@@ -45,8 +45,8 @@ remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: America/Boise # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -133,6 +133,13 @@ tag_archive:
 
 # collections
 collections: 
+  content-pages:
+    output: true
+    permalink: /:path/
+    order:
+      - sift-moves.md
+      - zines.md
+      - about.md
 #  privacy:
 #    output: false
 #    permalink: /:collection/:path/
