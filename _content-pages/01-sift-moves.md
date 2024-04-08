@@ -7,9 +7,11 @@ toc: true
 toc_sticky: true
 ---
 
+By [Ryan Randall](https://orcid.org/0000-0003-4499-7255)  
+
 ## Don't Stress, SIFT  
 
-Evaluating information can be exhausting. Even before social media or the internet, library collections often caused information overload. And with new social media sites popping up routinely, it seems like there's always another platform where people can share their own, unverified content. <!-- include anecdote of how many fact-checkers NYT, AP, WaPo, or the Idaho Statesman employ, if I can find those numbers? -->  
+Evaluating information can be exhausting. Even before social media or the internet, library collections often caused information overload. And with new social media sites popping up routinely, it seems like there's always another platform where people can share their own, unverified content.  
 
 Before throwing your hands up in despair at how unruly our modern information environments can be, try practicing the strategies from this section. They'll help you find better, more reliable sources—and they're great to share with patrons and colleagues. They're adaptable strategies that apply to online and offline information.  
 
@@ -17,7 +19,7 @@ This section also has some very specific tools and practices for online info. Un
 
 In much the same way that "don't hit any other cars" isn't particularly useful driving advice, "don't read anything sketchy" sounds useful without being helpful. When you're learning to drive, it's way better to have someone remind you to always look over your shoulder into the next lane before actually turning the wheel. Once this small, quick habit becomes second nature, you're well on your way to being a reliably safer driver. Thankfully, there are similarly small moves we can apply to information literacy.  
 
-"SIFT" helps you remember some of these strategies. <!-- They're reinforced and complemented by the four moves that fact-checkers use to efficiently evaluate a site. Here we'll teach you both, as well as some complementary approaches. --> 
+"SIFT" helps you remember some of these strategies.   
 
 ## SIFT Details  
 
@@ -70,13 +72,6 @@ Click on each letter below for details about that part of the acronym.
   For photos, [Tin Eye](https://tineye.com/) lets you quickly upload or link to an image and see where it originally came from. It has a drop-down menu that let you see the oldest image matches at the top of the list. So if you see someone claiming that there's a herd of goats on the loose in a suburban neighborhood near you—and includes an image—you can upload that image and find out that it was actually taken in [Boise back in 2018](https://tineye.com/search/57083cdccaa9c1fa1eebec1711ec36e4e1c8b1b1?sort=crawl_date&order=asc&page=1).  
   </div>
 </details>
-<!--  
-## Four Moves  
-###  
-###  
-###  
-###  
--->
 
 ## Additional Useful Approaches  
 
@@ -93,13 +88,13 @@ Sources use a wide range of types of evidence. A scientific source explaining ho
 
 This also goes for recognizing the goals, or purpose, each source has for sharing information. If we realize that we're engaging with a satirical source like the Onion, the Daily Show, or even an old George Carlin stand-up recording, we'll realize that their purpose is to entertain us or to see something in a new light. This isn't a difficulty for the internet alone. As embarrassing as it is, I can still remember becoming truly angry when I read Jonathan Swift's [A Modest Proposal](https://gitenberg.org/book/1080) in high school, since I didn't stop to look at the top of the page in our textbook. The running chapter heading would have quickly told me that this was the first reading in our new chapter: satire.  
 
-One common model for evaluating sources the acronym "CRAAP." It aims to reminds you to consider whether a source is current, reliable, accurate, authoritative, and pertinent. These are all important facets to consider when selecting a source. But [research increasingly shows](https://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/StudentAchievementUnlocked.pdf) that students taught to evaluate using this model don't use it reliably. <!-- do more about why it's not a test, also link to Stanford COR, Caulfield, and other sources on CRAAP --> 
+One common model for evaluating sources uses the acronym "CRAAP." It aims to reminds you to consider whether a source is current, reliable, accurate, authoritative, and pertinent. These are all important facets to consider when selecting a source. But [research increasingly shows](https://www.ala.org/acrl/sites/ala.org.acrl/files/content/conferences/confsandpreconfs/2021/StudentAchievementUnlocked.pdf) that students taught to evaluate using this model don't use it reliably. <!-- do more about why it's not a test, also link to Stanford COR, Caulfield, and other sources on CRAAP --> 
 
 <!-- Add New Literacy's question about "what is this source trying to do," and maybe introduce the idea of source genres / genre literacy -->
 
 ## Attribution  
 
-In putting this section together, I've drawn from a range of sources. Attribution and appreciation to:  
+In putting this section together, I (Ryan) have drawn from a range of sources. Attribution and appreciation to:  
 
 - Mike Caulfield's resources  
   - [SIFT (the Four Moves)](https://hapgood.us/2019/06/19/sift-the-four-moves/)  
