@@ -70,7 +70,7 @@ Thanks to these wonderful people! ([emoji key](#emoji-key))
 | :calendar: | project management |  
 | :microscope: | research & literature review |  
 
-We use the [All Contributors](https://allcontributors.org/docs/en/emoji-key) specification for recognizing all types of contribution to this project.  
+We use the [All Contributors](https://allcontributors.org/en/reference/emoji-key/) specification for recognizing all types of contribution to this project.  
 
 ## Colophon  
 
